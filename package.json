@@ -1,0 +1,16 @@
+{
+  "name": "API-Node.js-Express",
+  "version": "1.0.0",
+  "description": "Creación de arquitectura, autenticación y manejo de bases de datos a través del desarrollo de una API profesional con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
